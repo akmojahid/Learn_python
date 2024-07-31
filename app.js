@@ -7,11 +7,11 @@ app.get("/", function(req, res){
     res.json([
         {
             "name": "mujahid",
-            "age": 35
+            "age": 45
         }
     ])
     console.log("response send!")
     res.end()
 })
 
-app.listen(3000, console.log("server running on https://localhost:3000/"))
+app.listen(3000, console.log("server running on https://localhost:4000/"))
