@@ -7,7 +7,8 @@ app.get("/", function(req, res){
     res.json([
         {
             "name": "mujahid",
-            "age": 36
+            "age": 36, 
+            "active": false
         }
     ])
     console.log("response is sended!")
