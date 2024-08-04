@@ -8,7 +8,8 @@ app.get("/", function(req, res){
         {
             "name": "mujahid",
             "age": 36, 
-            "active": false
+            "active": false,
+            _id: NaN
         }
     ])
     console.log("response is sended!")
