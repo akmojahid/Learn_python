@@ -9,7 +9,8 @@ app.get("/", function(req, res){
             "name": "mujahid",
             "age": 36, 
             "active": false,
-            _id: NaN
+            _id: NaN,
+            "rule": undefined
         }
     ])
     console.log("response is sended!")
