@@ -1,5 +1,8 @@
-import utils
+# data types [string, number, boolean][list, tuples, sets, dictionary, type_casting][array, object, class]
 
-utils.my_name("Mujahid")
+#data types
+#operators
+#standard data_staructures [list, tuples]..
+myBook = ["x", "y", "z"]
 
-add(5, 2)
+myCar = {"name": "Toyta supra", "model": "m15", "price": 80000}
