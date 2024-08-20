@@ -4,5 +4,8 @@
 #operators
 #standard data_staructures [list, tuples]..
 myBook = ["x", "y", "z"]
+myStr = "mujahid"
+for i in range(len(myStr)):
+    print(myStr[i])
 
 myCar = {"name": "Toyta supra", "model": "m15", "price": 80000}
