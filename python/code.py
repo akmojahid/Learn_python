@@ -2,7 +2,7 @@
 
 #data types
 #operators
-#standard data_staructures [list, tuples]..
+#standard data_staructures [list, tuples, tree, binary search..]..
 myBook = ["x", "y", "z", [True, False], 1]
 myStr = "mujahid"
 prime_set = (1, 3, 4 , 5, 6, 7, 8, 9)
