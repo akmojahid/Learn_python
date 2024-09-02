@@ -4,11 +4,11 @@ Welcome to my Python learning journey! This repository documents my progress as 
 
 ## About This Repository
 
-This repository, `learn_pythoh`, is a collection of resources, notes, and code samples that I'm creating as I learn Python. The name is a playful misspelling of "python" - a reminder that mistakes are part of the learning process!
+This repository, `learn_python`, is a collection of resources, notes, and code samples that I'm creating as I learn Python. The name is a playful misspelling of "python" - a reminder that mistakes are part of the learning process!
 
 ## Curriculum
 
-I'm following a comprehensive curriculum that covers various aspects of Python programming. You can find the full curriculum [here](#). The main topics include:
+I'm following a comprehensive curriculum that covers various aspects of Python programming. You can find the full curriculum [here](./full_curriculam.md). The main topics include:
 
 1. Introduction to Computer Science and Programming
 2. Python Basics
