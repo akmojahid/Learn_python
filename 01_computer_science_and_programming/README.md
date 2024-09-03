@@ -72,7 +72,7 @@ print(total)
 - **Object-Oriented Programming (OOP)**:
     - Focuses on **objects** and **classes** to represent real-world entities. Emphasizes encapsulation, inheritance, and polymorphism.
     - Examples: Java, C++, Python.
-```
+```python
 **## Example in Python**:
   
 
@@ -170,7 +170,7 @@ print(total)
     - Create a new file named `hello.py` .
 2. **Write Your First Program**:
     - Add the following code to `hello.py` :
-```
+```python
 print("Hello, World!") 
 ```
 1. **Run the Program**:
@@ -179,6 +179,6 @@ print("Hello, World!")
     - Run the program by typing `python hello.py`  (or `python3 hello.py`  on some systems).
 2. **Output**:
     - You should see the `output: ` 
-```
+```python
 Hello, World!  
 ```
