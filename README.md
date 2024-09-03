@@ -10,7 +10,7 @@ This repository, `learn_python`, is a collection of resources, notes, and code s
 
 I'm following a comprehensive curriculum that covers various aspects of Python programming. You can find the full curriculum [here](./full_curriculam.md). The main topics include:
 
-1. [Introduction to Computer Science and Programming](./Introduction_to_Computer_Science_and_Programming/README.md/)
+1. [Introduction to Computer Science and Programming](./01_computer_science_and_programming/README.md/)
 2. Python Basics
 3. Control Flow
 4. Functions and Modules
