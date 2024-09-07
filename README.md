@@ -58,7 +58,7 @@ Here are some resources I'm using in my learning journey:
 - [Python.org](https://www.python.org/)
 - [Real Python](https://realpython.com/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Fluent python by Luciano Ramalho][www.orelly.com]
+- [Fluent python by Luciano Ramalho](www.orelly.com)
 
 (Add or modify this list as you discover helpful resources)
 

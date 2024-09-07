@@ -27,7 +27,8 @@ x_coord = coordinates[0]  # accessing first element
 person = {
     "name": "Mojahid",
     "age": 25,
-    "city": "Dhaka"
+    "city": "Dhaka",
+    "alive": True
 }
 name = person["name"]  # accessing value by key
 person["email"] = "mojahid@example.com"  # adding a new key-value pair
