@@ -237,3 +237,6 @@
 - Resources for continuing education
 - Python communities and conferences
 - Keeping up with Python updates and best practices
+
+
+thanks for your attention!
